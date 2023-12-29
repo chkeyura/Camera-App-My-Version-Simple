@@ -6,7 +6,7 @@ function setup() {
   }
   
   function draw() {
-  image(video,140,90,320,230)
+  image(video,140,90,320,230);
   stroke("black");
   fill("red");
   circle(40,40,60);
